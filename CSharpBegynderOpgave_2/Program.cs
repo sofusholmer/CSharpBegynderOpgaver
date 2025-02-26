@@ -17,8 +17,15 @@ int IntegerVariabel1 = 5;
 int IntegerVariabel2 = 5;
 Console.WriteLine(IntegerVariabel1 + IntegerVariabel2);
 
+Console.WriteLine("Hvad er dit navn?");
+string navn = Console.ReadLine();
 
-Console.ReadLine();
+Console.WriteLine("Navn sofus");
+   
+
+
+
+
 
 
 
