@@ -6,12 +6,10 @@
 int xPosition = 5;
 int yPosition = 1;
 
-Console.SetCursorPosition(xPosition, yPosition);
-Console.WriteLine("X");
+Console.ReadLine("Hej?");
+string navn = Console.ReadLine();
 
 
-string StrengVariabel = "TestStreng";
-Console.WriteLine(StrengVariabel);
 
 int IntegerVariabel1 = 5;
 int IntegerVariabel2 = 5;
@@ -21,6 +19,8 @@ Console.WriteLine("Hvad er dit navn?");
 string navn = Console.ReadLine();
 
 Console.WriteLine("Navn sofus");
+
+
    
 
 
